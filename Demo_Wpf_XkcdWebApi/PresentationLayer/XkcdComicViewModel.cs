@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo_Wpf_SimpleWebApi.BusinessLayer
+namespace Demo_Wpf_XkcdWebApi.PresentationLayer
 {
-    public class AppBusiness
+    public class XkcdComicViewModel
     {
-        public AppBusiness()
+        public XkcdComicViewModel()
         {
 
         }

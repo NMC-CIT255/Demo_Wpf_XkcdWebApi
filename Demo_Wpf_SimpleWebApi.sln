@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Wpf_SimpleWebApi", "Demo_Wpf_SimpleWebApi\Demo_Wpf_SimpleWebApi.csproj", "{27A640B5-FA09-4955-B374-A3968FE032FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Wpf_XkcdWebApi", "Demo_Wpf_XkcdWebApi\Demo_Wpf_XkcdWebApi.csproj", "{27A640B5-FA09-4955-B374-A3968FE032FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
